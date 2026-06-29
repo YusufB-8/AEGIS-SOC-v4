@@ -1,4 +1,4 @@
-# 🛡️ AEGIS SOC v5.0
+# 🛡️ AEGIS SOC v4.0
 
 ## Enterprise DFIR & SIEM Platform
 
